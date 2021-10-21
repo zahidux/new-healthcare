@@ -1,0 +1,23 @@
+.banner_container {
+    background: rgb(172, 217, 247) !important;
+}
+
+.slider_content h1 {
+    padding: 15px 0;
+}
+
+.slider_content ul {
+    padding: 0;
+}
+
+.slider_content ul li {
+    list-style: none;
+}
+
+.slider_img img {
+    width: 100% !important;
+}
+
+.slider_content {
+    color: white;
+}

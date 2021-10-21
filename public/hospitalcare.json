@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "name": "DR. KAZI ATIKUZZAMAN",
+        "department": "ENT",
+        "phone": "345-724-4100",
+        "description": "Special Training on Head-Neck Cancer Surgery (Tata Memorial Hospital, Mumbai), South Korea Associate Professor, ENT Enam Medical College Hospital",
+        "img": "http://tanhahealthcare.com/TanhaHealthCare/public/doctors/1578668427.jpg"
+    },
+    {
+        "id": "02",
+        "name": "DR. MAHBUB ALAM SOHAG",
+        "department": "ENT",
+        "phone": "567-726-5050",
+        "description": "Nose, ear, throat-pathologist",
+        "img": "http://tanhahealthcare.com/TanhaHealthCare/public/doctors/1581514847.jpg"
+    },
+    {
+        "id": "03",
+        "name": "DR. MOHSHIN HOSSAIN",
+        "department": "Heart Center",
+        "phone": "608-726-2284",
+        "description": "Professor, Cardiology National Institute of Cardiovascular Diseases Sher-e-Bangla Nagor Thana, Dhaka",
+        "img": "http://tanhahealthcare.com/TanhaHealthCare/public/doctors/1578669394.jpg"
+    },
+    {
+        "id": "04",
+        "name": "DR. MD. SHAKIL AHMED",
+        "department": "Hematology/Oncology and Medicine",
+        "phone": "778-724-4000",
+        "description": "MBBS,(Dhaka) ,PGT (Ortho RMO Tanha health care hospital",
+        "img": "http://tanhahealthcare.com/TanhaHealthCare/public/doctors/1579529840.jpg"
+    },
+    {
+        "id": "05",
+        "name": "DR.MD. SHAHADAT SHAKIL",
+        "department": "ENT",
+        "phone": "677-643-5026",
+        "description": " Genarel Physian Gregory Acampora, M.D. completed training in Anesthesiology at the University of Virginia and went on to Yale for advanced Cardiovascular Anesthesiology training.",
+        "img": "http://tanhahealthcare.com/TanhaHealthCare/public/doctors/1579530871.jpg"
+    },
+    {
+        "id": "06",
+        "name": "DR. MD. ASADULLAH (RIPON)",
+        "department": "Medicine",
+        "phone": "678-644-8910",
+        "description": "MBBS (Dhaka), D- Ortho (NITOR) AO Fellow (China), Fellow in Hand (UK) Fellowship in Pain Management (India) Fellow in Hand and Reconstructive Microsurgery (India)",
+        "img": "http://tanhahealthcare.com/TanhaHealthCare/public/doctors/1578498742.jpg"
+    }
+]

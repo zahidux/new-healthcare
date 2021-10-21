@@ -1,0 +1,9 @@
+.not_found{
+    height: 100vh;
+    background-image: url(https://i1.wp.com/www.ecommerce-nation.com/wp-content/uploads/2018/10/404-error.jpg?resize=800%2C600&ssl=1);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
